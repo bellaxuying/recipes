@@ -5,3 +5,5 @@
 * salt £0.30
 ## instructions
 * remove stone from avocado
+* squeeze lime juice
+* 
