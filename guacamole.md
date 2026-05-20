@@ -6,4 +6,4 @@
 ## instructions
 * remove stone from avocado
 * squeeze lime juice
-* 
+* add salt
