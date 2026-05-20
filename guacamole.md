@@ -1,8 +1,8 @@
 # Guacamole
 ## ingredients
-* avocado £0.90
-* lime £1.50
-* salt £0.30
+* Avocado £0.90
+* Lime £1.50
+* Salt £0.30
 ## instructions
 * remove stone from avocado
 * squeeze lime juice
