@@ -4,3 +4,4 @@
 * lime £1.50
 * salt £0.30
 ## instructions
+* remove stone from avocado
